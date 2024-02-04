@@ -6,6 +6,7 @@ function App() {
     <>
         <Card username="Delba" btnTxt="Sign Up" />
         <Card username="Alan" btnTxt="LogIn"/>
+        <Card username="Faisal Bhai" btnTxt="Set2Success.com"/>
 
     </>
   )
